@@ -1,5 +1,5 @@
-0_RfR 0,0_RfR 1,0_RfR 2,1_RfR 0,1_RfR 1,1_RfR 2,2_RfR 0,2_RfR 1,2_RfR 2,3_RfR 0,3_RfR 1,3_RfR 2,4_RfR 0,4_RfR 1,4_RfR 2,EWS_DaysToThreat,A.1_DikeIncrease 0,A.1_DikeIncrease 1,A.1_DikeIncrease 2,A.2_DikeIncrease 0,A.2_DikeIncrease 1,A.2_DikeIncrease 2,A.3_DikeIncrease 0,A.3_DikeIncrease 1,A.3_DikeIncrease 2,A.4_DikeIncrease 0,A.4_DikeIncrease 1,A.4_DikeIncrease 2,A.5_DikeIncrease 0,A.5_DikeIncrease 1,A.5_DikeIncrease 2,Expected Annual Damage,Dike Investment Costs,RfR Investment Costs,Evacuation Costs,Expected Number of Deaths,Unnamed: 0,All Costs
-1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,5432095.107399225,31358014.0,176700000.0,363.9930058052679,0.0003846391742315,58.0,
-1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,1507307.7081257617,32369294.305695508,176700000.0,78.11251825031404,0.0001390895621578,63.0,
-0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,6320800.0,182600000.0,0.0,0.0,9.0,
-1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,5432095.107399225,31358014.0,176700000.0,176.48145736012987,0.0011539175226946,33.0,
+0_RfR 0,0_RfR 1,0_RfR 2,1_RfR 0,1_RfR 1,1_RfR 2,2_RfR 0,2_RfR 1,2_RfR 2,3_RfR 0,3_RfR 1,3_RfR 2,4_RfR 0,4_RfR 1,4_RfR 2,EWS_DaysToThreat,A.1_DikeIncrease 0,A.1_DikeIncrease 1,A.1_DikeIncrease 2,A.2_DikeIncrease 0,A.2_DikeIncrease 1,A.2_DikeIncrease 2,A.3_DikeIncrease 0,A.3_DikeIncrease 1,A.3_DikeIncrease 2,A.4_DikeIncrease 0,A.4_DikeIncrease 1,A.4_DikeIncrease 2,A.5_DikeIncrease 0,A.5_DikeIncrease 1,A.5_DikeIncrease 2,Expected Annual Damage,Dike Investment Costs,RfR Investment Costs,Evacuation Costs,Expected Number of Deaths
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,3,0,8,3,0,8,5,6,6,7,5,5,1,0,5196402.516253444,493350862.1243684,0.0,316.0107388975156,0.0006013017666886
+1,1,0,1,1,0,1,1,1,1,1,1,1,1,0,1,0,0,0,9,0,0,4,0,0,3,0,0,4,0,0,0.0,158225909.99766964,1572700000.0,0.0,0.0
+0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,3,6,0,0,6,0,0,5,0,0,6,3,5,7,0,0,13990183.533617225,237659514.76659608,92100000.0,790.8920825059865,0.0016772640569183
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0,0,9,0,0,7,0,0,2,3,0,6,0,0,1631344.3510310326,241577632.0302916,115300000.0,0.0,0.00092847751649
